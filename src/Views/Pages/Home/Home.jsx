@@ -3,6 +3,7 @@ import BannerOne from "../../../Assets/Images/banner1.jpg";
 import BannerTwo from "../../../Assets/Images/banner2.jpg";
 import BannerThree from "../../../Assets/Images/banner3.jpg";
 import Help from "../../Components/Common/Help";
+import ProductCat from "./ProductCat";
 import Service from "./Service";
 
 export const Home = () => {
@@ -21,6 +22,9 @@ export const Home = () => {
             <img className="w-full" src={BannerThree} alt="" />
           </div>
         </div>
+      </div>
+      <div>
+        <ProductCat />
       </div>
       <div>
         <Service />
