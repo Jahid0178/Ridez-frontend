@@ -1,5 +1,6 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
+import About from "../About/About";
 import { Blog } from "../Blog/Blog";
 import { Contact } from "../Contact/Contact";
 import { Home } from "../Home/Home";
@@ -11,6 +12,7 @@ export const Main = () => {
     <div>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
         <Route path="/shop" element={<Shop />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/contact" element={<Contact />} />

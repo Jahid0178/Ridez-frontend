@@ -2,6 +2,7 @@ import React from "react";
 import Help from "../../Components/Common/Help";
 import Categories from "./Categories";
 import Clients from "./Clients";
+import FeaturedProduct from "./FeaturedProduct";
 import ProductCat from "./ProductCat";
 import Sellers from "./Sellers";
 import Service from "./Service";
@@ -20,6 +21,9 @@ export const Home = () => {
       </div>
       <div>
         <Sellers />
+      </div>
+      <div>
+        <FeaturedProduct />
       </div>
       <div>
         <Clients />

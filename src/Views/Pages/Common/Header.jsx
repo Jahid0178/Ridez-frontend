@@ -16,6 +16,9 @@ export const Header = () => {
               <Link to="/">Home</Link>
             </li>
             <li className="inline-block mx-5">
+              <Link to="/about">About</Link>
+            </li>
+            <li className="inline-block mx-5">
               <Link to="/shop">Shop</Link>
             </li>
             <li className="inline-block mx-5">
