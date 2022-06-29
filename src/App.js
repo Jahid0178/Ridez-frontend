@@ -1,7 +1,9 @@
+import { TheLayouts } from "./Views/Pages/TheLayouts";
+
 function App() {
   return (
     <div>
-      <h1>Ridez Application Front-end</h1>
+      <TheLayouts />
     </div>
   );
 }
