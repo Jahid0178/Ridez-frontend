@@ -79,7 +79,6 @@ const ServiceImage = {
   backgroundImage: `url(${ServiceImageBg})`,
   backgroundRepeat: "no-repeat",
   backgroundSize: "cover",
-  height: "550px",
   backgroundPosition: "center",
   width: "100%",
 };
