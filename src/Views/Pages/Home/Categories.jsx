@@ -17,9 +17,12 @@ const Categories = () => {
             <p className="mt-3">The All-New Trance Advance Pro 29 Series</p>
           </div>
           <div>
-            <button className="btn-secondary hover:bg-black transition-all">
+            <Link
+              to="#"
+              className="btn-secondary hover:bg-black transition-all"
+            >
               Learn More
-            </button>
+            </Link>
           </div>
         </div>
         <div
@@ -31,9 +34,12 @@ const Categories = () => {
             <p className="mt-3">25% Off Trance X Advance E+</p>
           </div>
           <div>
-            <button className="btn bg-white text-black hover:bg-orange-500 hover:text-white transition-all">
+            <Link
+              to="#"
+              className="btn bg-white text-black hover:bg-orange-500 hover:text-white transition-all"
+            >
               Discover Now
-            </button>
+            </Link>
           </div>
         </div>
         <div
