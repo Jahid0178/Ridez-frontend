@@ -3,6 +3,7 @@ import Help from "../../Components/Common/Help";
 import Categories from "./Categories";
 import Clients from "./Clients";
 import ProductCat from "./ProductCat";
+import Sellers from "./Sellers";
 import Service from "./Service";
 
 export const Home = () => {
@@ -16,6 +17,9 @@ export const Home = () => {
       </div>
       <div>
         <Service />
+      </div>
+      <div>
+        <Sellers />
       </div>
       <div>
         <Clients />
