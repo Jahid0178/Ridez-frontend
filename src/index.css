@@ -17,6 +17,10 @@ body {
 @tailwind utilities;
 
 @layer components {
+  .btn {
+    @apply px-7 py-3 uppercase font-semibold
+  }
+
   .btn-primary {
     @apply border-4 border-orange-500 px-7 py-2 uppercase font-semibold
   }
