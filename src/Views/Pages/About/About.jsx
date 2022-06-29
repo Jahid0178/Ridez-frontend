@@ -1,4 +1,5 @@
 import React from "react";
+import Facilities from "./Facilities";
 import Title from "./Title";
 import WhoWeAre from "./WhoWeAre";
 
@@ -10,6 +11,9 @@ const About = () => {
       </div>
       <div>
         <WhoWeAre />
+      </div>
+      <div>
+        <Facilities />
       </div>
     </div>
   );
