@@ -9,7 +9,7 @@ const Clients = () => {
   return (
     <div className="bg-orange-600 py-5">
       <div className="container mx-auto px-3">
-        <div className="grid sm:grid-cols-1 md:grid-cols-5">
+        <div className="grid sm:grid-cols-1 md:grid-cols-5 gap-4">
           <img className="mx-auto" src={BrandOne} alt="Brand1" />
           <img className="mx-auto" src={BrandTwo} alt="Brand2" />
           <img className="mx-auto" src={BrandThree} alt="Brand3" />
