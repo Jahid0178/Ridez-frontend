@@ -1,5 +1,6 @@
 import React from "react";
 import Facilities from "./Facilities";
+import NeedSupport from "./NeedSupport";
 import Story from "./Story";
 import Title from "./Title";
 import WhoWeAre from "./WhoWeAre";
@@ -18,6 +19,9 @@ const About = () => {
       </div>
       <div>
         <Story />
+      </div>
+      <div>
+        <NeedSupport />
       </div>
     </div>
   );
