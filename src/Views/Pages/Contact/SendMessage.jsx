@@ -40,7 +40,7 @@ const SendMessage = () => {
             <input className="btn-secondary hover:bg-black" type="submit" />
           </form>
         </div>
-        <div style={BG}>2</div>
+        <div style={BG}></div>
       </div>
     </div>
   );
