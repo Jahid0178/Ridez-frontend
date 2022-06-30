@@ -1,9 +1,16 @@
 import React from "react";
+import GetToKnowUs from "./GetToKnowUs";
+import SendMessage from "./SendMessage";
 
 export const Contact = () => {
   return (
-    <>
-      <div className="container mx-auto px-3">Contact</div>
-    </>
+    <div>
+      <div>
+        <GetToKnowUs />
+      </div>
+      <div>
+        <SendMessage />
+      </div>
+    </div>
   );
 };

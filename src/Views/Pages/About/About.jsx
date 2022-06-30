@@ -1,15 +1,17 @@
 import React from "react";
+import PageTitle from "../Common/PageTitle";
 import Facilities from "./Facilities";
 import NeedSupport from "./NeedSupport";
 import Story from "./Story";
-import Title from "./Title";
 import WhoWeAre from "./WhoWeAre";
+
+const Title = "About Us";
 
 const About = () => {
   return (
     <div>
       <div className="bg-black text-white">
-        <Title />
+        <PageTitle title={Title} />
       </div>
       <div>
         <WhoWeAre />
