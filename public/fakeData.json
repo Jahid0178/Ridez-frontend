@@ -1,0 +1,137 @@
+[
+  {
+    "productId": 1,
+    "img": "https://i.ibb.co/3s3ppYJ/product-19-1-690x537.jpg",
+    "productName": "heavy duty bronze gloves",
+    "price": 155,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 4,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 2,
+    "img": "https://i.ibb.co/3vXR12s/product-16-1-690x537.jpg",
+    "productName": "awesome leather shoes",
+    "price": 205,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 4,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 3,
+    "img": "https://i.ibb.co/PzwW5dS/product-4-1-690x537.jpg",
+    "productName": "Treak cycle blue",
+    "price": 550,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 5,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 4,
+    "img": "https://i.ibb.co/P4LLDZk/product-8-1-690x537.jpg",
+    "productName": "Treak cycle dragon",
+    "price": 770,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 5,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 5,
+    "img": "https://i.ibb.co/8m2fkXG/product-1-1-690x537.jpg",
+    "productName": "Treak cycle smash rock",
+    "price": 600,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 4,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 6,
+    "img": "https://i.ibb.co/6szjhz6/product-14-1-690x537.jpg",
+    "productName": "Treak white jurcey",
+    "price": 99,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 1,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 7,
+    "img": "https://i.ibb.co/tQkLvmH/product-15-1-690x537.jpg",
+    "productName": "Treak red jurcey",
+    "price": 45,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 3,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 8,
+    "img": "https://i.ibb.co/CvPLvPJ/product-17-1-690x537.jpg",
+    "productName": "Back light R447",
+    "price": 100,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 5,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 9,
+    "img": "https://i.ibb.co/CvPLvPJ/product-17-1-690x537.jpg",
+    "productName": "Treak back light RZX55",
+    "price": 320,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 3.3,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 10,
+    "img": "https://i.ibb.co/GVYJMLS/product-3-1-690x537.jpg",
+    "productName": "Treak yellow cycle",
+    "price": 450,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 4,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 11,
+    "img": "https://i.ibb.co/VJppbQp/product-2-1-690x537.jpg",
+    "productName": "Treak red shirk cycle",
+    "price": 452,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 4,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 12,
+    "img": "https://i.ibb.co/FnFfbMn/product-5-1-690x537.jpg",
+    "productName": "Treak black shirk cycle",
+    "price": 452,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 4,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 13,
+    "img": "https://i.ibb.co/VHF7tZQ/product-12-1-690x537.jpg",
+    "productName": "Blue healmet",
+    "price": 42,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 4.5,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 14,
+    "img": "https://i.ibb.co/3s3ppYJ/product-19-1-690x537.jpg",
+    "productName": "Premium Gloves",
+    "price": 42,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 4.5,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  },
+  {
+    "productId": 15,
+    "img": "https://i.ibb.co/p1Fp9QC/product-11-1-690x537.jpg",
+    "productName": "Road Tracker GPS",
+    "price": 92,
+    "productDetails": "Suscipit voluptates vel quas eos ab vel consequatur. Ut voluptas recusandae aspernatur et eos quia nesciunt. Earum in libero deleniti soluta.",
+    "rating": 3.5,
+    "description": "lorem ipsum dolor sit amet, Non hic magni ad inventore recusandae dolorem est ab. Voluptate rerum sed veritatis quae facilis est officiis. Nisi minima laborum ad accusamus. Ipsum excepturi voluptate molestias ullam corporis id sit. Maxime dolor officiis voluptatum dolor quia libero. Atque quia maxime dolorem cumque repudiandae. Sed omnis et quas architecto. Ea veritatis minus quidem eos quis eaque."
+  }
+]

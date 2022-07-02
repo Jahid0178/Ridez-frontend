@@ -6,6 +6,7 @@ import { Contact } from "../Contact/Contact";
 import { Home } from "../Home/Home";
 import OurTeam from "../OurTeam/OurTeam";
 import { Shop } from "../Shop/Shop";
+import SingleProduct from "../Shop/SingleProduct/SingleProduct";
 import { NotFound } from "./NotFound";
 
 export const Main = () => {
@@ -15,6 +16,7 @@ export const Main = () => {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/shop" element={<Shop />} />
+        <Route path="/shop/:productId" element={<SingleProduct />} />
         <Route path="/team" element={<OurTeam />} />
         <Route path="/blog" element={<Blog />} />
         <Route path="/contact" element={<Contact />} />
