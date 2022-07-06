@@ -4,6 +4,18 @@ import { useParams } from "react-router-dom";
 const SingleProduct = () => {
   const { productId } = useParams();
   const [getProduct, setGetProduct] = useState({});
+  const [quantity, setQuantity] = useState(1);
+
+  const quantityCount = (e) => {
+    console.log(e);
+    const quantityValue = e.target.value;
+    setQuantity(quantityValue);
+  };
+
+  if (quantity < 0) {
+    setQuantity(0);
+  }
+
   useEffect(() => {
     const url = "/fakeData.json";
     fetch(url)
@@ -28,7 +40,26 @@ const SingleProduct = () => {
             <p className="text-lg mb-3 text-orange-500 font-medium">
               $ {price}
             </p>
-            <p>Quantity</p>
+            <div className="mt-4">
+              <label htmlFor="quantity" className="mb-1 block">
+                Quantity
+              </label>
+              <input
+                className="p-2 w-20 border-2 text-xl outline-none rounded"
+                type="number"
+                name=""
+                min={1}
+                max={100}
+                id="quantity"
+                onChange={(e) => quantityCount(e)}
+              />
+            </div>
+            <div className="mt-2">
+              <h4 className="text-lg font-bold text-orange-500">
+                Total Quantity Price
+              </h4>
+              <p className="font-bold text-orange-500">$ {price * quantity}</p>
+            </div>
             <button className="btn-secondary mt-5">add to cart</button>
           </div>
         </div>
